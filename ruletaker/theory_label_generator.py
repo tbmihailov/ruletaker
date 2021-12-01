@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 import argparse
-from common import (
+from ruletaker.common import (
     Example,
     Fact,
     Rule,

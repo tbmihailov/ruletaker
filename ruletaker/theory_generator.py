@@ -1,6 +1,6 @@
 import argparse
-import common
-from common import Example, Fact, Rule, Theory, TheoryAssertionInstance
+import ruletaker.common as common
+from ruletaker.common import Example, Fact, Rule, Theory, TheoryAssertionInstance
 import json
 
 import nltk

@@ -1,4 +1,4 @@
-from common import (
+from ruletaker.common import (
     Example,
     Fact,
     Rule,

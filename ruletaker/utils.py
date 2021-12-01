@@ -1,5 +1,5 @@
 import random
-from common import Fact, Rule
+from ruletaker.common import Fact, Rule
 
 
 def variablize(term):
